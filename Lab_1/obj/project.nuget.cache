@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lTgEseuapXNZltxup0G/WmLp3DjihIOX90gD/1xfQgeWVRR3g6XhPq3RbrELxEaDeHaNwQToykA6HdRYHrNzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Heisenberg\\Desktop\\Математическая статистика\\Moodle\\Lab_1\\Lab_1\\Lab_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heisenberg\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Heisenberg\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
